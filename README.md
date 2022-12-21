@@ -1,3 +1,2 @@
-# A Simple desktop application for inventory management
-
+# Desktop app - Inventory management
 
